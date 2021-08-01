@@ -710,6 +710,29 @@ h3 span{
         margin:10px;
     }
 
+    .works-content{
+        margin:20px;
+    }
 
+    .skills-content{
+        margin-left: 10px;
+    }
+
+    .skills{
+        margin: 0px;
+    }
+
+    .work-desc{
+        margin-left: 0px;
+        
+    }
+
+    .contacts-desc{
+        margin-left: 0px;
+    }
+    
+    .contacts .contacts-content span{
+        margin-left: 0;
+    }
 }
 /* Media query end */
